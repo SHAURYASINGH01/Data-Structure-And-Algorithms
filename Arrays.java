@@ -1,7 +1,6 @@
 // Find the Position of X value in java by taking userinput.
 //2D Array Problem 1:
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 public class Arrays {
 int x;
 public static void main(String []args) {
@@ -19,8 +18,9 @@ public static void main(String []args) {
       for(int j=0; j<columns;j++) {
           if(numbers[i][j] == x) {
           System.out.println("number found at index: " + i +","+ j + "");
-          }
-       }
-     }
-   }
- }
+        }
+      }
+    }
+  sc.close();
+  }
+}
