@@ -14,8 +14,8 @@ public class Function {
       }
 
 
-      int max = Integer.MIN_VALUE;
-      int min = Integer.MAX_VALUE;
+      int max = Integer.MIN_VALUE;   //-infinity
+      int min = Integer.MAX_VALUE;  //+infinity
      
        for(int i=0; i<numbers.length; i++) {
            if(numbers[i] < min) {
