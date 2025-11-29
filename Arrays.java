@@ -2,7 +2,7 @@
 //2D Array Problem 1:
 import java.util.*;
 public class Arrays {
-int x;
+int x; 
 public static void main(String []args) {
   Scanner sc = new Scanner(System.in);
   int rows = sc.nextInt();
