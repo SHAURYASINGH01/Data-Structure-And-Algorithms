@@ -1,16 +1,16 @@
 -- Imp Question --
 
-Problem Solving Array to Tree + Dp
+Problem Solving
 
  | Approach |
 
-(Brute)
+   (Brute)
 
-  <span>&#8595;</span>
+   <span>&#8595;</span>
   
-(Better)
+   (Better)
 
-  <span>&#8595;</span> 
+   <span>&#8595;</span> 
   
-(Optimial Approach)..
+   (Optimial)..
 
