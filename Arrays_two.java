@@ -1,7 +1,7 @@
 // Find the Position of X value in java by taking userinput.
 //2D Array Problem 1:
 import java.util.*;
-public class Arrays {
+public class Arrays_two {
 int x; 
 public static void main(String []args) {
   Scanner sc = new Scanner(System.in);
