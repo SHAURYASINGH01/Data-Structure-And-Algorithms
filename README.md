@@ -1,16 +1,12 @@
--- Imp Question --
+Problem Solving     | Approach |
 
-Problem Solving
-
- | Approach |
-
-   (Brute)
-
-   <span>&#8595;</span>
+(Brute)
+   
+  <span> &#8595; </span>
   
-   (Better)
-
-   <span>&#8595;</span> 
+(Better)
+   
+  <span> &#8595; </span> 
   
-   (Optimial)..
+(Most Optimial)
 
