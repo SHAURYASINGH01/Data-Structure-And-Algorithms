@@ -1,4 +1,4 @@
-public class BS {
+public class Bs {
   public static int binarysearch(int num[],int key) {
     int start=0; int end=num.length-1; 
 
